@@ -55,8 +55,3 @@ System Performance (Non-functional requirements: supporting 500+ concurrent user
 
 Finally this folder contains other important documents (Practice Documents) where I practices other BA principles for upskilling.
 
-![EPIC](Epic.png)
-![User Story](UserStory.png)
-![RoadMap](Roadmap.png)
-![Gantt Chart](GanttChart.png)
-![Tracebality Matrix](TM.png)
