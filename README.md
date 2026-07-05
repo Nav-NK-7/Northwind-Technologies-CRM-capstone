@@ -40,7 +40,7 @@ Developed a rigid Traceability Matrix mapping Requirement ID -> User Story ID ->
 Guaranteed 100% scope coverage to ensure all stakeholder expectations directly translate into verified product features.
 
 📂 Repository Contents
-Project_Workbook.xlsx - Contains the full data model containing the EPICS tab, User Stories tab, Gantt Chart, and Traceability Matrix.
+Capstone Project Northwind Technologies.xlsx - Contains the full data model containing the EPICS tab, User Stories tab, Gantt Chart, and Traceability Matrix.
 
 📈 Core Modules Implemented
 Contact Management (CRUD operations, import/export capabilities).
