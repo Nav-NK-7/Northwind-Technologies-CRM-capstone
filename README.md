@@ -47,12 +47,16 @@ Contact Management (CRUD operations, import/export capabilities).
 
 Sales Opportunity Tracking (Cycle dashboards, lead prioritization).
 
-Finally this folder contains other important documents (Practice Documents) where I practices other BA principles for upskilling.
-
 Reporting & Analytics (Performance tracking for sales managers).
 
 Integration & Automation (Outlook email/calendar syncing and auto-reminders).
 
 System Performance (Non-functional requirements: supporting 500+ concurrent users, <3s load times).
 
+Finally this folder contains other important documents (Practice Documents) where I practices other BA principles for upskilling.
 
+![EPIC](Epic.png)
+![User Story](UserStory.png)
+![RoadMap](Roadmap.png)
+![Gantt Chart](GanttChart.png)
+![Tracebality Matrix](TM.png)
