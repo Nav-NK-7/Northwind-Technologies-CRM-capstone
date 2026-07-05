@@ -1,6 +1,6 @@
 # Northwind-Technologies-CRM-capstone
 This repo contains the capstone project files and practices output files of other topics regarding BA role 
-Agile CRM Implementation - Business Analysis Capstone Project
+# Agile CRM Implementation - Business Analysis Capstone Project
 📌 Project Overview
 This repository contains the comprehensive Business Analysis artifacts for a CRM implementation project tailored for Northwind Technologies, a rapidly growing software development company.
 
@@ -46,6 +46,8 @@ Project_Workbook.xlsx - Contains the full data model containing the EPICS tab, U
 Contact Management (CRUD operations, import/export capabilities).
 
 Sales Opportunity Tracking (Cycle dashboards, lead prioritization).
+
+Finally this folder contains other important documents (Practice Documents) where I practices other BA principles for upskilling.
 
 Reporting & Analytics (Performance tracking for sales managers).
 
