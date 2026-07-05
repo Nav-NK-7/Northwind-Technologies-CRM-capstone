@@ -13,7 +13,7 @@ Product Owner: Sarah Thompson
 
 Scrum Master: David Kim
 
-Business Analyst: Tom Brown (My Role)
+Business Analyst: Tom Brown (My Role : Naveen Kumar)
 
 Design & Development: Rachel Green (UX/UI), Lisa Chen (Frontend), Mark Wilson (Backend)
 
